@@ -1,0 +1,8 @@
+Class,Color,Size,Weight,Location
+string,string,string,string,string
+Saw,Black,Medium,Heavy,Pegboard
+Hammer,Blue,Large,Heavy,Workbench
+Pliers,Gray,Small,Light,Pegboard
+Pliers,Gray,Medium,Light,Pegboard
+Wrench,Gray,Small,Light,Pegboard
+Wrench,Gray,Large,Heavy,Pegboard

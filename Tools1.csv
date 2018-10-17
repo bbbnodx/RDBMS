@@ -1,0 +1,10 @@
+Identifier,Class,Color,Size,Weight
+string,string,string,string,string
+Saw8,Saw,Black,Medium,Heavy
+Hammer4,Hammer,Blue,Large,Heavy
+Wrench17,Wrench,Gray,Small,Light
+Wrench5,Wrench,Gray,Large,Heavy
+Screwdriver6,Screwdriver,Blue,Long,Light
+Screwdriver3,Screwdriver,Black,Long,Light
+Screwdriver1,Screwdriver,Red,Long,Heavy
+Screwdriver9,Screwdriver,Red,Short,Light

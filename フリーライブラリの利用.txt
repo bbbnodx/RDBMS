@@ -1,0 +1,10 @@
+CSVファイルの読み書きをおこなうクラス IOcsv で
+http://www.wakhok.ac.jp/~tomoharu/Java/csv/　にて配布されているクラスを使用
+
+csv.jar
+
+jp.ac.wakhok.tomoharu.csv.CSVTokenizer
+　既にある1行のCSV形式のデータを解析し，それぞれの項目に分解するクラス．CSV形式に対応した java.util.StringTokenizer のようなもの．
+
+jp.ac.wakhok.tomoharu.csv.CSVLine
+  CSV形式の1行分のデータ内容を保持するクラス．CSV形式への書き出し，書き出しの際のエンクォートの指定，項目の追加などが可能である．

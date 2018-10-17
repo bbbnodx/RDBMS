@@ -1,0 +1,10 @@
+Name,Location,Size
+string,string,string
+Saw8,Pegboard,Medium
+Hammer4,Workbench,Large
+Wrench17,Pegboard,Small
+Wrench5,Pegboard,Large
+Screwdriver6,Workbench,Long
+Screwdriver3,Toolchest,Long
+Screwdriver1,Toolchest,Long
+Screwdriver9,Toolchest,Short

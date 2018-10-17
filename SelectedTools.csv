@@ -1,0 +1,4 @@
+class,color,size,weight,location
+string,string,string,string,string
+Wrench,Gray,Small,Light,Pegboard
+Wrench,Gray,Large,Heavy,Pegboard
